@@ -2,36 +2,36 @@
 
 ## Machine Learning and AI in Radiology
 
-* Name of company
+* Tempus
 
-* When was the company incorporated?
-
-* Who are the founders of the company?
-
-* where did the idea originate
+* Tempus was founded in August of 2015 by Eric Lefkofsky, after his wife was diagnosed with Breast Cancer. ^(7)
 
 * How is the company funded? How much funding have they received?
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+* According to the Tempus website, "AI-enabled solutions that provide advanced insights based on radiology images
+  We build solutions that generate actionable insights from radiology images to help providers make more informed diagnostic and treatment decisions." ^(6)
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+* Radiologists in the United States alone number around 50,000 ^(4).  They are in the top 10 highest paid doctors annually in our country ^(5), and are rececently becoming subjected to burnout due to overloads, which can be mitigated by AI implemetation. ^(1)
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Tempus is working on acquiring multiple other AI platforms in order to combine them into a larger generative AI competitor in the field of Radiology. Most          recently acquired the emerging company Arterys, Arterys was previously the front runner in building an AI platform specifically designed for medical imaging,
+  enabling physicians to make informed treatment decisions and deliver better patient care.  From Tempus' announcement on Arterys webpage;
+   
+  "Tempus is a leading technology company that is advancing precision medicine through the practical application of data and
+  artificial intelligence in healthcare.By joining forces, Arterys’ product will be integrated into Tempus’ solutions, enabling providers to access a comprehensive
+  patient view (now inclusive of radiology scans) and researchers to leverage this new data modality to optimize the drug development process."
+  
+*Tempus is using a multifacted approach to using generative AI to connect multiple sectors of medicine under one umbrella.  This is the future of medical AI, which   will all likely stem from Radiology.  this is my personal cojecture, as Radiology is the platform that interstects all medical specialties ^(8). The Tempus plan    according to their website is to build "...the platform for oncology... (expanding) it to neuropsychiatry, cardiology, infectious disease, and radiology."^(7)      Given this mission, the acquiring of Arterys would be a logical step towards their goal. 
 
 ## Landscape
 
 * Medical Radiology
 
-* In the current health care market, AI tools for radiologists dominate. Seventy-five percent of the over 500 FDA-cleared AI algorithms target radiology practice, increasing from 70% in 2021 ^(2)
+* According to an article published by the Radiology Society of North America "In the current health care market, AI tools for radiologists dominate. Seventy-five    percent of the over 500 FDA-cleared AI algorithms target radiology practice, increasing from 70% in 2021" ^(2)
 
 * Key Competitors, by region ^(3):
-    USA; Nines, RapidAI, VIDA Diagnostics, Arterys was a player in the field and has recently merged with Tempus (this is an interesteing merger, as many
-    Radiologists are predicting that the future of AI in Radiology will involve Generative AI taking over or organizing multiple smaller ML & AI comapnies),
-    MRIS, Enlitic, Subtle Medicine, Dyad Medical, Covera Health, Quantively, Braid Health, QMENTA, Viz.ai
+    USA; Nines, RapidAI, VIDA Diagnostics,MRIS, Enlitic, Subtle Medicine, Dyad Medical, Covera Health, Quantively, Braid Health, QMENTA, Viz.ai
     Israel; PerSimiO, DIA Imaging analysis, Nucleai, Zebra Medical Vision, Aidoc
     South Korea; Lunit, DDH
     China; Deep01, Voxel Cloud
@@ -41,7 +41,7 @@
     UK; Kheiron Medical Technologies, Encord, Brainomix
     Singapore; Qritive
     Netherlands; Quantib, Radiobotics
-     Germany; CellmatiQ
+    Germany; CellmatiQ
 
 ## Results
 
@@ -53,16 +53,23 @@
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* Key advanced business tactices from this company should include working with companies such as Radhall to gain access to larger emerging MML imaging databases,     or trying to acquire them as part of their expanding portfolio. As they grow larger and more competitive, swallowing specialized startups and creating a larger     generative AI machine that is capable of cross disciplinary interactions would be the cutting edge of medical AI advancements. 
 
-* Why do you think that offering this product or service would benefit the company?
+* Just as Amazon took over the footprint where there once stood thousands of specialized retail stores online, there will be conglomerate takeovers of the medical
+  artifical intelligence world as well.
 
-* What technologies would this additional product or service utilize?
+* I would recommend that this company begins to acquire access or ownership of large informational databases, access to images and information to feed thier AI and
+  Machine Learning programs.  This will keep them ultra competitive, especially if they are able to remove competitors access to the same system, or better yet,
+  regluate and charge for this access. I would further recomend they add an additional sector to thier management team that focused on the regulatory side of         medical information, once they are on the upside of growth, mitigating future loss and risk will depend on their ability to purchase and lobby political            influence to close off competitive entry.  This could potentially be leverage by using regulatory ignorance in the field of AI to create a need for privatization   of anonymous data. 
 
-* Why are these technologies appropriate for your solution?
+* These ideas are appropriate for this company because access to informaton and data is the core of AI and Machine learning. Eventually the information stream may    be cut off by privatization of this informatoin and without it, smaller comapnies would be left unable to compete. 
 
 references
-*(1) The JACR Presents: Building the Future of Radiology with A.I. https://www.youtube.com/watch?v=VRnq_uic4Ng 
-*(2) https://pubs.rsna.org/doi/10.1148/radiol.231114#:~:text=1.-,Radiology%20Will%20Continue%20to%20Lead%20the%20Way%20for%20AI%20in,%25%20in%202021%20(2).
-*(3) https://www.medicalstartups.org/top/radiology/
+(1) The JACR Presents: Building the Future of Radiology with A.I. https://www.youtube.com/watch?v=VRnq_uic4Ng 
+(2) https://pubs.rsna.org/doi/10.1148/radiol.231114#:~:text=1.-,Radiology%20Will%20Continue%20to%20Lead%20the%20Way%20for%20AI%20in,%25%20in%202021%20(2).
+(3) https://www.medicalstartups.org/top/radiology/
+(4) https://www.statista.com/statistics/209424/us-number-of-active-physicians-by-specialty-area/
+(5) https://www.fiercehealthcare.com/providers/here-are-20-highest-paid-specialties-2022-average-physician-pay-drops-24-doximity
+(6) https://www.arterys.com
+(7) https://www.tempus.com/about-us/our-history/
 
