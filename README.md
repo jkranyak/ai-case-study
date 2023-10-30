@@ -1,5 +1,5 @@
 # AI Case Study
-[Screenshot of an xray]([https://myoctocat.com/assets/images/base-octocat.svg](https://brightside.me/articles/19-weird-x-ray-photos-for-those-who-think-theyve-seen-it-all-we-still-cant-get-over-spongebob-568360/?utm_source=brightside_web&utm_medium=article&utm_campaign=share_image&utm_content=copylink_568360&image=17724060#image17724060))
+![Screenshot of an xray]([https://myoctocat.com/assets/images/base-octocat.svg](https://brightside.me/articles/19-weird-x-ray-photos-for-those-who-think-theyve-seen-it-all-we-still-cant-get-over-spongebob-568360/?utm_source=brightside_web&utm_medium=article&utm_campaign=share_image&utm_content=copylink_568360&image=17724060#image17724060))
 ## Machine Learning and AI in Radiology
 
 * **Tempus**
