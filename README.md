@@ -1,5 +1,5 @@
 # AI Case Study
-![Screenshot of an xray]
+!
 
 
 ## Machine Learning and AI in Radiology
@@ -70,13 +70,13 @@
 * These ideas are appropriate for this company because access to informaton and data is the core of AI and Machine learning. Eventually the information stream may    be cut off by privatization of this informatoin and without it, smaller comapnies would be left unable to compete. 
 
 * references
-<sup>1</sup> The JACR Presents: Building the Future of Radiology with A.I. https://www.youtube.com/watch?v=VRnq_uic4Ng 
-<sup>2</sup> https://pubs.rsna.org/doi/10.1148/radiol.231114#:~:text=1.-,Radiology%20Will%20Continue%20to%20Lead%20the%20Way%20for%20AI%20in,%25%20in%202021%20(2).
-<sup>3</sup> https://www.medicalstartups.org/top/radiology/
-<sup>4</sup> https://www.statista.com/statistics/209424/us-number-of-active-physicians-by-specialty-area/
-<sup>5</sup> https://www.fiercehealthcare.com/providers/here-are-20-highest-paid-specialties-2022-average-physician-pay-drops-24-doximity
-<sup>6</sup> https://www.arterys.com
-<sup>7</sup> https://www.tempus.com/about-us/our-history/
-<sup>8</sup> https://www.globaldata.com/company-profile/tempus-labs-inc/#:~:text=Tempus%20Labs%20Inc%3A%20Overview&text=The%20company%27s%20major%20services%20include,and%20TIME%20Trial%20technology%20platform.
+-<sup>1</sup> The JACR Presents: Building the Future of Radiology with A.I. https://www.youtube.com/watch?v=VRnq_uic4Ng 
+-<sup>2</sup> https://pubs.rsna.org/doi/10.1148/radiol.231114#:~:text=1.-,Radiology%20Will%20Continue%20to%20Lead%20the%20Way%20for%20AI%20in,%25%20in%202021%20(2).
+-<sup>3</sup> https://www.medicalstartups.org/top/radiology/
+-<sup>4</sup> https://www.statista.com/statistics/209424/us-number-of-active-physicians-by-specialty-area/
+-<sup>5</sup> https://www.fiercehealthcare.com/providers/here-are-20-highest-paid-specialties-2022-average-physician-pay-drops-24-doximity
+-<sup>6</sup> https://www.arterys.com
+-<sup>7</sup> https://www.tempus.com/about-us/our-history/
+-<sup>8</sup> https://www.globaldata.com/company-profile/tempus-labs-inc/#:~:text=Tempus%20Labs%20Inc%3A%20Overview&text=The%20company%27s%20major%20services%20include,and%20TIME%20Trial%20technology%20platform.
 
 
