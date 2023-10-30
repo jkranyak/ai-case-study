@@ -71,7 +71,9 @@
 
 * references
 -<sup>1</sup> The JACR Presents: Building the Future of Radiology with A.I. https://www.youtube.com/watch?v=VRnq_uic4Ng 
+
 -<sup>2</sup> https://pubs.rsna.org/doi/10.1148/radiol.231114#:~:text=1.-,Radiology%20Will%20Continue%20to%20Lead%20the%20Way%20for%20AI%20in,%25%20in%202021%20(2).
+
 -<sup>3</sup> https://www.medicalstartups.org/top/radiology/
 -<sup>4</sup> https://www.statista.com/statistics/209424/us-number-of-active-physicians-by-specialty-area/
 -<sup>5</sup> https://www.fiercehealthcare.com/providers/here-are-20-highest-paid-specialties-2022-average-physician-pay-drops-24-doximity
