@@ -6,11 +6,11 @@
 
 * Tempus was founded in August of 2015 by Eric Lefkofsky, after his wife was diagnosed with Breast Cancer. <sup>7</sup>
 
-* The company has raised over $1.3 billion, per Crunchbase. Recently Tempus raised $275 million through equity from previous investors and debt financing from Ares   Management. 
+* The company has raised over[ $1.3 billion]([url](https://news.crunchbase.com/health-wellness-biotech/biotech-drug-development-venture-funding-tempus/#:~:text=Biotech%20upstart%20Tempus%20announced%20on,debt%20financing%20from%20Ares%20Management.)), per Crunchbase. Recently Tempus raised $275 million through equity from previous investors and debt financing from Ares   Management. 
 
 ## Business Activities
 
-* According to the Tempus website, >"AI-enabled solutions that provide advanced insights based on radiology images
+* According to the Tempus website, "AI-enabled solutions that provide advanced insights based on radiology images
   We build solutions that generate actionable insights from radiology images to help providers make more informed diagnostic and treatment decisions."<sup>6</sup>
   Tempus started as a company involved in AI genomics, and has been slowly moving into other areas of generative medical AI.  
 
