@@ -69,7 +69,8 @@
 
 * These ideas are appropriate for this company because access to informaton and data is the core of AI and Machine learning. Eventually the information stream may    be cut off by privatization of this informatoin and without it, smaller comapnies would be left unable to compete. 
 
-* references
+**References**
+
 <sup>1</sup>The JACR Presents: Building the Future of Radiology with A.I.
   -https://www.youtube.com/watch?v=VRnq_uic4Ng 
 
