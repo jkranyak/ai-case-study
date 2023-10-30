@@ -1,5 +1,5 @@
 # AI Case Study
-![Screenshot of an xray]([])
+![Screenshot of an xray]([photo_for_effect])
 ## Machine Learning and AI in Radiology
 
 * **Tempus**
