@@ -6,14 +6,15 @@
 
 * Tempus was founded in August of 2015 by Eric Lefkofsky, after his wife was diagnosed with Breast Cancer. ^(7)
 
-* How is the company funded? How much funding have they received?
+* The company has raised over $1.3 billion, per Crunchbase. Recently Tempus raised $275 million through equity from previous investors and debt financing from Ares   Management. 
 
 ## Business Activities
 
 * According to the Tempus website, "AI-enabled solutions that provide advanced insights based on radiology images
-  We build solutions that generate actionable insights from radiology images to help providers make more informed diagnostic and treatment decisions." ^(6)
+  We build solutions that generate actionable insights from radiology images to help providers make more informed diagnostic and treatment decisions." ^(6)  Tempus   started as a company involved in AI genomics, and has been slowly moving into other areas of generative medical AI.  
 
-* Radiologists in the United States alone number around 50,000 ^(4).  They are in the top 10 highest paid doctors annually in our country ^(5), and are rececently becoming subjected to burnout due to overloads, which can be mitigated by AI implemetation. ^(1)
+* Radiologists in the United States alone number around 50,000 ^(4).  They are in the top 10 highest paid doctors annually in our country ^(5), and are rececently
+  becoming subjected to burnout due to overloads, which can be mitigated by AI implemetation. ^(1)
 
 * Tempus is working on acquiring multiple other AI platforms in order to combine them into a larger generative AI competitor in the field of Radiology. Most          recently acquired the emerging company Arterys, Arterys was previously the front runner in building an AI platform specifically designed for medical imaging,
   enabling physicians to make informed treatment decisions and deliver better patient care.  From Tempus' announcement on Arterys webpage;
@@ -22,7 +23,8 @@
   artificial intelligence in healthcare.By joining forces, Arterys’ product will be integrated into Tempus’ solutions, enabling providers to access a comprehensive
   patient view (now inclusive of radiology scans) and researchers to leverage this new data modality to optimize the drug development process."
   
-*Tempus is using a multifacted approach to using generative AI to connect multiple sectors of medicine under one umbrella.  This is the future of medical AI, which   will all likely stem from Radiology.  this is my personal cojecture, as Radiology is the platform that interstects all medical specialties ^(8). The Tempus plan    according to their website is to build "...the platform for oncology... (expanding) it to neuropsychiatry, cardiology, infectious disease, and radiology."^(7)      Given this mission, the acquiring of Arterys would be a logical step towards their goal. 
+* Tempus is using a multifacted approach to using generative AI to connect multiple sectors of medicine under one umbrella.  The future of medical AI, which
+  will all likely all begiin to stem from Radiology.  this is my personal cojecture, as Radiology is the platform that interstects all medical specialties ^(8).      The Tempus plan according to their website is to build "...the platform for oncology... (expanding) it to neuropsychiatry, cardiology, infectious disease, and      radiology." Given this mission, the acquiring of Arterys would be a logical step towards their goal.
 
 ## Landscape
 
@@ -72,4 +74,5 @@ references
 (5) https://www.fiercehealthcare.com/providers/here-are-20-highest-paid-specialties-2022-average-physician-pay-drops-24-doximity
 (6) https://www.arterys.com
 (7) https://www.tempus.com/about-us/our-history/
+
 
