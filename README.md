@@ -1,7 +1,5 @@
 # AI Case Study
-!
-
-
+![hyperlink of an xray](https://i0.wp.com/www.asktheradtech.com/wp-content/uploads/2020/04/crazy-xray-4.jpg?w=589&ssl=1)
 ## Machine Learning and AI in Radiology
 
 * **Tempus**
