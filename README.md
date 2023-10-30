@@ -1,5 +1,5 @@
 # AI Case Study
-
+![Screenshot of an xray]([https://myoctocat.com/assets/images/base-octocat.svg](https://brightside.me/articles/19-weird-x-ray-photos-for-those-who-think-theyve-seen-it-all-we-still-cant-get-over-spongebob-568360/?utm_source=brightside_web&utm_medium=article&utm_campaign=share_image&utm_content=copylink_568360&image=17724060#image17724060))
 ## Machine Learning and AI in Radiology
 
 * **Tempus**
@@ -56,7 +56,7 @@
 
 ## Recommendations
 
-* Key advanced business tactices from this company should include working with companies such as Radhall to gain access to larger emerging MML imaging databases,     or trying to acquire them as part of their expanding portfolio. As they grow larger and more competitive, swallowing specialized startups and creating a larger     generative AI machine that is capable of cross disciplinary interactions would be the cutting edge of medical AI advancements. 
+* Key advanced business tactices from this company should include working with companies such as [Radhall]([url](https://www.f6s.com/company/radhall#about)) to gain access to larger emerging MML imaging databases,     or trying to acquire them as part of their expanding portfolio. As they grow larger and more competitive, swallowing specialized startups and creating a larger     generative AI machine that is capable of cross disciplinary interactions would be the cutting edge of medical AI advancements. 
 
 * Just as Amazon took over the footprint where there once stood thousands of specialized retail stores online, there will be conglomerate takeovers of the medical
   artifical intelligence world as well.
