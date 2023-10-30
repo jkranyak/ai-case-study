@@ -1,5 +1,5 @@
 # AI Case Study
-![Screenshot of an xray]([photo_for_effect])
+![Screenshot of an xray]([[photo_for_effect](https://images.app.goo.gl/fdxhArwpLGSotbCY6)])
 ## Machine Learning and AI in Radiology
 
 * **Tempus**
