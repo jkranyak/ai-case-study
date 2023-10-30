@@ -26,10 +26,22 @@
 
 * Medical Radiology
 
-* according to Radiologist the recent trends in Radiology are....
+* In the current health care market, AI tools for radiologists dominate. Seventy-five percent of the over 500 FDA-cleared AI algorithms target radiology practice, increasing from 70% in 2021 ^(2)
 
-* Key Competitors, by region: USA; Nines, RapidAI, VIDA Diagnostics, Arterys was a player in the field and has recently merged with Tempus (this is an interesteing merger, as many Radiologists are predicting that the future of AI in Radiology will involve Generative AI taking over or organizing multiple smaller ML & AI comapnies), IMRIS, Enlitic, Subtle Medicine, Dyad Medical, Covera Health, Quantively, Braid Health, QMENTA, Viz.ai, Israel; PerSimiO, DIA Imaging analysis, Nucleai, Zebra Medical Vision, Aidoc, South Korea; Lunit, DDH  China; Deep01, Voxel Cloud, India; Qure.ai, France; AZmed, Gleamer,Therapixel Spain; QUIBIM UK; Kheiron Medical Technologies, Encord, Brainomix Singapore; Qritive Netherlands; Quantib, Radiobotics Germany; CellmatiQ
-* 
+* Key Competitors, by region ^(3):
+    USA; Nines, RapidAI, VIDA Diagnostics, Arterys was a player in the field and has recently merged with Tempus (this is an interesteing merger, as many
+    Radiologists are predicting that the future of AI in Radiology will involve Generative AI taking over or organizing multiple smaller ML & AI comapnies),
+    MRIS, Enlitic, Subtle Medicine, Dyad Medical, Covera Health, Quantively, Braid Health, QMENTA, Viz.ai
+    Israel; PerSimiO, DIA Imaging analysis, Nucleai, Zebra Medical Vision, Aidoc
+    South Korea; Lunit, DDH
+    China; Deep01, Voxel Cloud
+    India; Qure.ai
+    France; AZmed, Gleamer,Therapixel
+    Spain; QUIBIM
+    UK; Kheiron Medical Technologies, Encord, Brainomix
+    Singapore; Qritive
+    Netherlands; Quantib, Radiobotics
+     Germany; CellmatiQ
 
 ## Results
 
@@ -48,3 +60,9 @@
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+references
+*(1) The JACR Presents: Building the Future of Radiology with A.I. https://www.youtube.com/watch?v=VRnq_uic4Ng 
+*(2) https://pubs.rsna.org/doi/10.1148/radiol.231114#:~:text=1.-,Radiology%20Will%20Continue%20to%20Lead%20the%20Way%20for%20AI%20in,%25%20in%202021%20(2).
+*(3) https://www.medicalstartups.org/top/radiology/
+
