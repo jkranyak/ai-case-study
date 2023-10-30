@@ -2,7 +2,7 @@
 ![hyperlink of an xray](https://i0.wp.com/www.asktheradtech.com/wp-content/uploads/2020/04/crazy-xray-4.jpg?w=589&ssl=1)
 ## Machine Learning and AI in Radiology
 
-* **Tempus**
+* #000000 **Tempus**
 
 * Tempus was founded in August of 2015 by Eric Lefkofsky, after his wife was diagnosed with Breast Cancer. <sup>7</sup>
 
