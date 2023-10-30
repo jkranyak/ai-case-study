@@ -2,19 +2,20 @@
 
 ## Machine Learning and AI in Radiology
 
-* Tempus
+* **Tempus**
 
-* Tempus was founded in August of 2015 by Eric Lefkofsky, after his wife was diagnosed with Breast Cancer. ^(7)
+* Tempus was founded in August of 2015 by Eric Lefkofsky, after his wife was diagnosed with Breast Cancer. <sup>7</sup>
 
 * The company has raised over $1.3 billion, per Crunchbase. Recently Tempus raised $275 million through equity from previous investors and debt financing from Ares   Management. 
 
 ## Business Activities
 
 * According to the Tempus website, "AI-enabled solutions that provide advanced insights based on radiology images
-  We build solutions that generate actionable insights from radiology images to help providers make more informed diagnostic and treatment decisions." ^(6)  Tempus   started as a company involved in AI genomics, and has been slowly moving into other areas of generative medical AI.  
+  We build solutions that generate actionable insights from radiology images to help providers make more informed diagnostic and treatment decisions."<sup>6</sup>
+  Tempus started as a company involved in AI genomics, and has been slowly moving into other areas of generative medical AI.  
 
-* Radiologists in the United States alone number around 50,000 ^(4).  They are in the top 10 highest paid doctors annually in our country ^(5), and are rececently
-  becoming subjected to burnout due to overloads, which can be mitigated by AI implemetation. ^(1)
+* Radiologists in the United States alone number around 50,000<sup>4</sup>.  They are in the top 10 highest paid doctors annually in our country<sup>5</sup>, and are rececently
+  becoming subjected to burnout due to overloads, which can be mitigated by AI implemetation.<sup>1</sup>
 
 * Tempus is working on acquiring multiple other AI platforms in order to combine them into a larger generative AI competitor in the field of Radiology. Most          recently acquired the emerging company Arterys, Arterys was previously the front runner in building an AI platform specifically designed for medical imaging,
   enabling physicians to make informed treatment decisions and deliver better patient care.  From Tempus' announcement on Arterys webpage;
@@ -28,11 +29,11 @@
 
 ## Landscape
 
-* Medical Radiology
+* **Medical Radiology**
 
-* According to an article published by the Radiology Society of North America "In the current health care market, AI tools for radiologists dominate. Seventy-five    percent of the over 500 FDA-cleared AI algorithms target radiology practice, increasing from 70% in 2021" ^(2)
+* According to an article published by the Radiology Society of North America "In the current health care market, AI tools for radiologists dominate. Seventy-five    percent of the over 500 FDA-cleared AI algorithms target radiology practice, increasing from 70% in 2021"<sup>2</sup>
 
-* Key Competitors, by region ^(3):
+* **Key Competitors**, by region<sup>3</sup>:
     USA; Nines, RapidAI, VIDA Diagnostics,MRIS, Enlitic, Subtle Medicine, Dyad Medical, Covera Health, Quantively, Braid Health, QMENTA, Viz.ai
     Israel; PerSimiO, DIA Imaging analysis, Nucleai, Zebra Medical Vision, Aidoc
     South Korea; Lunit, DDH
@@ -66,7 +67,7 @@
 
 * These ideas are appropriate for this company because access to informaton and data is the core of AI and Machine learning. Eventually the information stream may    be cut off by privatization of this informatoin and without it, smaller comapnies would be left unable to compete. 
 
-references
+* references
 (1) The JACR Presents: Building the Future of Radiology with A.I. https://www.youtube.com/watch?v=VRnq_uic4Ng 
 (2) https://pubs.rsna.org/doi/10.1148/radiol.231114#:~:text=1.-,Radiology%20Will%20Continue%20to%20Lead%20the%20Way%20for%20AI%20in,%25%20in%202021%20(2).
 (3) https://www.medicalstartups.org/top/radiology/
