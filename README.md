@@ -1,5 +1,5 @@
 # AI Case Study
-![Screenshot of an xray]([https://myoctocat.com/assets/images/base-octocat.svg])
+![Screenshot of an xray]([])
 ## Machine Learning and AI in Radiology
 
 * **Tempus**
