@@ -4,7 +4,7 @@
 
 * **Tempus**
 
-* Tempus was founded in August of 2015 by Eric Lefkofsky, after his wife was diagnosed with Breast Cancer. [^7]
+* Tempus was founded in August of 2015 by Eric Lefkofsky, after his wife was diagnosed with Breast Cancer. <sup>7</sup>
 
 * The company has raised over[ $1.3 billion]([url](https://news.crunchbase.com/health-wellness-biotech/biotech-drug-development-venture-funding-tempus/#:~:text=Biotech%20upstart%20Tempus%20announced%20on,debt%20financing%20from%20Ares%20Management.)), per Crunchbase. Recently Tempus raised $275 million through equity from previous investors and debt financing from Ares   Management. 
 
