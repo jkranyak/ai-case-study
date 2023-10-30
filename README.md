@@ -1,10 +1,10 @@
 # AI Case Study
-![Screenshot of an xray]([https://myoctocat.com/assets/images/base-octocat.svg](https://brightside.me/articles/19-weird-x-ray-photos-for-those-who-think-theyve-seen-it-all-we-still-cant-get-over-spongebob-568360/?utm_source=brightside_web&utm_medium=article&utm_campaign=share_image&utm_content=copylink_568360&image=17724060#image17724060))
+![Screenshot of an xray]([https://myoctocat.com/assets/images/base-octocat.svg])
 ## Machine Learning and AI in Radiology
 
 * **Tempus**
 
-* Tempus was founded in August of 2015 by Eric Lefkofsky, after his wife was diagnosed with Breast Cancer. <sup>7</sup>
+* Tempus was founded in August of 2015 by Eric Lefkofsky, after his wife was diagnosed with Breast Cancer. [^7]
 
 * The company has raised over[ $1.3 billion]([url](https://news.crunchbase.com/health-wellness-biotech/biotech-drug-development-venture-funding-tempus/#:~:text=Biotech%20upstart%20Tempus%20announced%20on,debt%20financing%20from%20Ares%20Management.)), per Crunchbase. Recently Tempus raised $275 million through equity from previous investors and debt financing from Ares   Management. 
 
