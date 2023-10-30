@@ -1,5 +1,5 @@
 # AI Case Study
-![Screenshot of an xray]([[photo_for_effect](https://images.app.goo.gl/fdxhArwpLGSotbCY6)])
+![Screenshot of an xray]([https://images.app.goo.gl/fdxhArwpLGSotbCY6])
 ## Machine Learning and AI in Radiology
 
 * **Tempus**
@@ -48,7 +48,7 @@
 
 ## Results
 
-* What has been the business impact of this company so far?
+* To date Tempus has had impacts in and become a leader in the following medical ML & AI areas; genomic sequencing, clinical data structuring, image recognition, biological modeling and TIME Trial technology platform. <sup>8</sup>  
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
@@ -75,5 +75,6 @@
 <sup>5</sup> https://www.fiercehealthcare.com/providers/here-are-20-highest-paid-specialties-2022-average-physician-pay-drops-24-doximity
 <sup>6</sup> https://www.arterys.com
 <sup>7</sup> https://www.tempus.com/about-us/our-history/
+<sup>8</sup> https://www.globaldata.com/company-profile/tempus-labs-inc/#:~:text=Tempus%20Labs%20Inc%3A%20Overview&text=The%20company%27s%20major%20services%20include,and%20TIME%20Trial%20technology%20platform.
 
 
