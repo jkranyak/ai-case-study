@@ -55,7 +55,7 @@ Among the radiology field there are over 250 companis competing in the space, Te
 
 * To date Tempus has had impacts in and become a leader in the following medical ML & AI areas; genomic sequencing, clinical data structuring, image recognition, biological modeling and TIME Trial technology platform. <sup>8</sup>  
 
-* **Core Metrics**
+* **Core Metrics**<sup>9</sup>
       Core metrics for private companies that arent traded would include;
 1.        Adaptation in the field
           - Tempus currently works with around 5,000 oncologists, as well as prestigious organizations such as the Mayo
@@ -63,7 +63,7 @@ Among the radiology field there are over 250 companis competing in the space, Te
 1.        Financial Solvency
           - Acording to the founder Eric Lefkofsky, when asked about an IPO he responded "We're fortunate that we've
             raised enough capital that, unlike many of our peers, Tempus has never needed to raise additional capital
-            in order to be self-sufficient. We're essentially self-sustaining now."<sup>9</sup>
+            in order to be self-sufficient. We're essentially self-sustaining now."
 1.       Regualtory Approval
           - When Tempus acquired Arterys they also gained access to 10 FDA approved algorithms for medical imaging in
             in the areas of neurology, oncology and cardiology, among others. 
