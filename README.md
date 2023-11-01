@@ -18,7 +18,7 @@
 * Radiologists in the United States alone number around 50,000<sup>4</sup>.  They are in the top 10 highest paid doctors annually in our country<sup>5</sup>, and
   are rececently becoming subjected to burnout due to overloads, which can be mitigated by AI implemetation.<sup>1</sup>
 
-* Tempus is working on acquiring multiple other AI platforms in order to combine them into a larger generative AI competitor in the field of Radiology. Most          recently acquired the emerging company Arterys, Arterys was previously the front runner in building an AI platform specifically designed for medical imaging,
+* Tempus is working on acquiring multiple other AI platforms in order to combine them into a larger generative AI competitor in the field of Radiology. Most          recently acquired a leading company Arterys, Arterys was previously a front runner in building an AI platform specifically designed for medical imaging,
   enabling physicians to make informed treatment decisions and deliver better patient care.  From Tempus' announcement on Arterys webpage;
    
   "Tempus is a leading technology company that is advancing precision medicine through the practical application of data and
