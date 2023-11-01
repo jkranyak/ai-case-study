@@ -37,7 +37,7 @@ Given this mission, the acquiring of Arterys would be a logical step towards the
 * According to an [article](https://pubs.rsna.org/doi/10.1148/radiol.231114#:~:text=1.-,Radiology%20Will%20Continue%20to%20Lead%20the%20Way%20for%20AI%20in,%25%20in%202021%20(2)) published by the Radiology Society of North America "In the current health care market, AI tools for radiologists dominate. Seventy-five    percent of the over 500 FDA-cleared AI algorithms target radiology practice, increasing from 70% in 2021"<sup>2</sup>
 
 * **Key Competitors**, in Radiology specifically, by region<sup>3</sup>:
-+ -USA; Nines, RapidAI, VIDA Diagnostics,MRIS, Enlitic, Subtle Medicine, Dyad Medical, Covera Health, Quantively,
+  -USA; Nines, RapidAI, VIDA Diagnostics,MRIS, Enlitic, Subtle Medicine, Dyad Medical, Covera Health, Quantively,
 +    Braid Health, QMENTA, Viz.ai
 +    Israel; PerSimiO, DIA Imaging analysis, Nucleai, Zebra Medical Vision, Aidoc
 +    South Korea; Lunit, DDH
