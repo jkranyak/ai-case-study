@@ -64,7 +64,8 @@ Among the radiology field there are over 250 companis competing in the space, Te
           - Tempus currently works with around 5,000 oncologists, as well as prestigious organizations such as the Mayo
             Clinic, Cleveland Clinic, and Duke University School of Medicine. The company they have acquired, Arterys               is currently is currently being used in multiple
 1.        Financial Solvency
-          - Acording to the founder Eric Lefkofsky, when asked about an IPO he responded >"We're fortunate that we've
+          - Acording to the founder Eric Lefkofsky, when asked about an IPO he responded
+      > We're fortunate that we've
             raised enough capital that, unlike many of our peers, Tempus has never needed to raise additional capital
             in order to be self-sufficient. We're essentially self-sustaining now."
 1.       Regualtory Approval
