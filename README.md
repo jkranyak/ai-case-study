@@ -4,15 +4,16 @@
 
 * **Tempus**
 
-* Tempus was founded in August of 2015 by Eric Lefkofsky, after his wife was diagnosed with Breast Cancer. <sup>7</sup>
+* Tempus was founded in August of 2015 by Eric Lefkofsky (founder of Groupon), after his wife was diagnosed with Breast Cancer. <sup>7</sup>
 
-* The company has raised over[ $1.3 billion]([url](https://news.crunchbase.com/health-wellness-biotech/biotech-drug-development-venture-funding-tempus/#:~:text=Biotech%20upstart%20Tempus%20announced%20on,debt%20financing%20from%20Ares%20Management.)), per Crunchbase. Recently Tempus raised $275 million through equity from previous investors and debt financing from Ares   Management. 
+* The company has raised over[ $1.3 billion]([url](https://news.crunchbase.com/health-wellness-biotech/biotech-drug-development-venture-funding-tempus/#:~:text=Biotech%20upstart%20Tempus%20announced%20on,debt%20financing%20from%20Ares%20Management.)), per Crunchbase. Recently Tempus raised $275 million through equity from previous investors and debt financing from Ares   Management.
+
 
 ## Business Activities
 
 * According to the [Tempus website](https://www.tempus.com/radiology/), "AI-enabled solutions that provide advanced insights based on radiology images
   We build solutions that generate actionable insights from radiology images to help providers make more informed diagnostic and treatment decisions."<sup>6</sup>
-  Tempus started as a company involved in AI genomics, and has been slowly moving into other areas of generative medical AI.  
+  Tempus started as a company involved in AI genomics, and has been slowly moving into other areas of generative medical AI.  This report is focused on thier newest venture into generative AI in the **Radiology** Field
 
 * Radiologists in the United States alone number around 50,000<sup>4</sup>.  They are in the top 10 highest paid doctors annually in our country<sup>5</sup>, and
   are rececently becoming subjected to burnout due to overloads, which can be mitigated by AI implemetation.<sup>1</sup>
@@ -25,7 +26,7 @@
   patient view (now inclusive of radiology scans) and researchers to leverage this new data modality to optimize the drug development process."
   
 * Tempus is using a multifacted approach to using generative AI to connect multiple sectors of medicine under one umbrella.  The future of medical AI, which
-  will all likely all begiin to stem from Radiology.  this is my personal cojecture, as Radiology is the platform that interstects all medical specialties ^(8).      The Tempus plan according to their website is to build "...the platform for oncology... (expanding) it to neuropsychiatry, cardiology, infectious disease, and      radiology." Given this mission, the acquiring of Arterys would be a logical step towards their goal.
+  will all likely all begiin to stem from Radiology.  this is my personal cojecture, as Radiology is the platform that interstects all medical specialties ^(8).      The Tempus plan according to their website is to build "...the platform for oncology... (expanding) it to neuropsychiatry, cardiology, infectious disease, and      radiology." Given this mission, the acquiring of Arterys would be a logical step towards their goal.  Previously Tempus had acquired clinical lab AKESOgen in 2019 and clinical trial company Highline Sciences in 2022<sup>9</sup>.  
 
 ## Landscape
 
@@ -33,8 +34,9 @@
 
 * According to an [article](https://pubs.rsna.org/doi/10.1148/radiol.231114#:~:text=1.-,Radiology%20Will%20Continue%20to%20Lead%20the%20Way%20for%20AI%20in,%25%20in%202021%20(2)) published by the Radiology Society of North America "In the current health care market, AI tools for radiologists dominate. Seventy-five    percent of the over 500 FDA-cleared AI algorithms target radiology practice, increasing from 70% in 2021"<sup>2</sup>
 
-* **Key Competitors**, by region<sup>3</sup>:
-    USA; Nines, RapidAI, VIDA Diagnostics,MRIS, Enlitic, Subtle Medicine, Dyad Medical, Covera Health, Quantively, Braid Health, QMENTA, Viz.ai
+* **Key Competitors**, in Radiology specifically, by region<sup>3</sup>:
+    USA; Nines, RapidAI, VIDA Diagnostics,MRIS, Enlitic, Subtle Medicine, Dyad Medical, Covera Health, Quantively,
+    Braid Health, QMENTA, Viz.ai
     Israel; PerSimiO, DIA Imaging analysis, Nucleai, Zebra Medical Vision, Aidoc
     South Korea; Lunit, DDH
     China; Deep01, Voxel Cloud
@@ -46,13 +48,28 @@
     Netherlands; Quantib, Radiobotics
     Germany; CellmatiQ
 
+Among the radiology field there are over 250 companis competing in the space, Tempus acquired Arterys which was ranked #9.<sup>11</sup>
+
+
 ## Results
 
 * To date Tempus has had impacts in and become a leader in the following medical ML & AI areas; genomic sequencing, clinical data structuring, image recognition, biological modeling and TIME Trial technology platform. <sup>8</sup>  
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+* **Core Metrics**
+      Core metrics for private companies that arent traded would include;
+        Adaptation in the field
+          - Tempus currently works with around 5,000 oncologists, as well as prestigious organizations such as the Mayo
+            Clinic, Cleveland Clinic, and Duke University School of Medicine. The company they have acquired, Arterys               is currently is currently being used in multiple
+        Financial Solvency
+          - Acording to the founder Eric Lefkofsky, when asked about an IPO he responded "We're fortunate that we've
+            raised enough capital that, unlike many of our peers, Tempus has never needed to raise additional capital
+            in order to be self-sufficient. We're essentially self-sustaining now."<sup>9</sup>
+        Regualtory Approval
+          - When Tempus acquired Arterys they also gained access to 10 FDA approved algorithms for medical imaging in
+            in the areas of neurology, oncology and cardiology, among others. 
+      
 
-* How is your company performing relative to competitors in the same field?
+* Compared to other players in the medical AI field Tempus is 
 
 ## Recommendations
 
@@ -86,4 +103,8 @@
 
 <sup>8</sup>https://www.globaldata.com/company-profile/tempus-labs-inc/#:~:text=Tempus%20Labs%20Inc%3A%20Overview&text=The%20company%27s%20major%20services%20include,and%20TIME%20Trial%20technology%20platform.
 
+<sup>9</sup> https://www.fiercehealthcare.com/health-tech/arterys-acquisition-under-its-belt-precision-medicine-company-tempus-moves-forward
 
+<sup>10</sup> https://www.fiercebiotech.com/medtech/arterys-lands-fda-go-ahead-add-new-modules-cardiac-mri-reading-ai
+
+<sup>11</sup> https://tracxn.com/d/companies/arterys/__wlW3lLvynwh7R0znimcfP5gB9bITdv51CP09nJjpvnI
