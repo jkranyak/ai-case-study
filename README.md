@@ -71,7 +71,7 @@ Among the radiology field there are over 250 companis competing in the space, Te
             in the areas of neurology, oncology and cardiology, among others. 
       
 
-* Compared to other players in the medical AI field Tempus is 
+* Compared to other players in the medical AI field Tempus is becoming verticaclly integrated at a fast pace, this is the future of medical AI according to several Physicians that I have spoken to in the past few years.
 
 ## Recommendations
 
