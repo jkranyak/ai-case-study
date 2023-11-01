@@ -11,7 +11,8 @@
 
 ## Business Activities
 
-* According to the [Tempus website](https://www.tempus.com/radiology/), >"AI-enabled solutions that provide advanced insights based on radiology images
+* According to the [Tempus website](https://www.tempus.com/radiology/),
+  >"AI-enabled solutions that provide advanced insights based on radiology images
   We build solutions that generate actionable insights from radiology images to help providers make more informed diagnostic and treatment decisions."<sup>6</sup>
   Tempus started as a company involved in AI genomics, and has been slowly moving into other areas of generative medical AI.  This report is focused on thier newest venture into generative AI in the **Radiology** Field
 
