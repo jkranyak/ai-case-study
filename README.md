@@ -12,7 +12,7 @@
 
 ## Business Activities
 
-* According to the [Tempus website](https://www.tempus.com/radiology/),
+* According to the [Tempus website](https://www.tempus.com/radiology/) they are involed in cross disciplinary aspects of the medical field, having started in genomics and slowly integrating a multi disciplinary machine learning and AI approach to vertically integrating thier position in the medical field.  Their latest foray is into Radiology.
   >"AI-enabled solutions that provide advanced insights based on radiology images
   We build solutions that generate actionable insights from radiology images to help providers make more informed diagnostic and treatment decisions."<sup>6</sup>
   
