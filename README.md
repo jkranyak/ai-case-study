@@ -14,6 +14,7 @@
 * According to the [Tempus website](https://www.tempus.com/radiology/),
   >"AI-enabled solutions that provide advanced insights based on radiology images
   We build solutions that generate actionable insights from radiology images to help providers make more informed diagnostic and treatment decisions."<sup>6</sup>
+  
   Tempus started as a company involved in AI genomics, and has been slowly moving into other areas of generative medical AI.  This report is focused on thier newest venture into generative AI in the **Radiology** Field
 
 * Radiologists in the United States alone number around 50,000<sup>4</sup>.  They are in the top 10 highest paid doctors annually in our country<sup>5</sup>, and
@@ -22,12 +23,15 @@
 * Tempus is working on acquiring multiple other AI platforms in order to combine them into a larger generative AI competitor in the field of Radiology. Most          recently acquired a leading company Arterys, Arterys was previously a front runner in building an AI platform specifically designed for medical imaging,
   enabling physicians to make informed treatment decisions and deliver better patient care.  From Tempus' announcement on Arterys webpage;
    
-  >"Tempus is a leading technology company that is advancing precision medicine through the practical application of data and
-  artificial intelligence in healthcare.By joining forces, Arterys’ product will be integrated into Tempus’ solutions, enabling providers to access a comprehensive
-  patient view (now inclusive of radiology scans) and researchers to leverage this new data modality to optimize the drug development process."
+>"Tempus is a leading technology company that is advancing precision medicine through the practical application of data
+>and artificial intelligence in healthcare.By joining forces, Arterys’ product will be integrated into Tempus’
+>solutions, enabling providers to access a comprehensive patient view (now inclusive of radiology scans) and
+>researchers to leverage this new data modality to optimize the drug development process."
   
 * Tempus is using a multifacted approach to using generative AI to connect multiple sectors of medicine under one umbrella.  The future of medical AI, which
-  will all likely all begiin to stem from Radiology.  this is my personal cojecture, as Radiology is the platform that interstects all medical specialties <sup>8</sup>.      The Tempus plan according to their website is to build >"...the platform for oncology... (expanding) it to neuropsychiatry, cardiology, infectious disease, and      radiology." Given this mission, the acquiring of Arterys would be a logical step towards their goal.  Previously Tempus had acquired clinical lab AKESOgen in 2019 and clinical trial company Highline Sciences in 2022<sup>9</sup>.  
+  will all likely all begiin to stem from Radiology.  this is my personal cojecture, as Radiology is the platform that interstects all medical specialties <sup>8</sup>.      The Tempus plan according to their website is to build
+  >"...the platform for oncology... (expanding) it to neuropsychiatry, cardiology, infectious disease, and      radiology."
+  >Given this mission, the acquiring of Arterys would be a logical step towards their goal.  Previously Tempus had acquired clinical lab AKESOgen in 2019 and clinical trial company Highline Sciences in 2022<sup>9</sup>.  
 
 ## Landscape
 
