@@ -23,15 +23,12 @@
 * Tempus is working on acquiring multiple other AI platforms in order to combine them into a larger generative AI competitor in the field of Radiology. Most          recently acquired a leading company Arterys, Arterys was previously a front runner in building an AI platform specifically designed for medical imaging,
   enabling physicians to make informed treatment decisions and deliver better patient care.  From Tempus' announcement on Arterys webpage;
    
->"Tempus is a leading technology company that is advancing precision medicine through the practical application of data
->and artificial intelligence in healthcare.By joining forces, Arterys’ product will be integrated into Tempus’
->solutions, enabling providers to access a comprehensive patient view (now inclusive of radiology scans) and
->researchers to leverage this new data modality to optimize the drug development process."
+  >"Tempus is a leading technology company that is advancing precision medicine through the practical application of data and artificial intelligence in healthcare.By joining forces, Arterys’ product will be integrated into Tempus’ solutions, enabling providers to access a comprehensive patient view (now inclusive of radiology scans) and researchers to leverage this new data modality to optimize the drug development process."
   
 * Tempus is using a multifacted approach to using generative AI to connect multiple sectors of medicine under one umbrella.  The future of medical AI, which
   will all likely all begiin to stem from Radiology.  this is my personal cojecture, as Radiology is the platform that interstects all medical specialties <sup>8</sup>.      The Tempus plan according to their website is to build
   >"...the platform for oncology... (expanding) it to neuropsychiatry, cardiology, infectious disease, and      radiology."
-  >Given this mission, the acquiring of Arterys would be a logical step towards their goal.  Previously Tempus had acquired clinical lab AKESOgen in 2019 and clinical trial company Highline Sciences in 2022<sup>9</sup>.  
+Given this mission, the acquiring of Arterys would be a logical step towards their goal.  Previously Tempus had acquired clinical lab AKESOgen in 2019 and clinical trial company Highline Sciences in 2022<sup>9</sup>.  
 
 ## Landscape
 
