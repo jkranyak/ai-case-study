@@ -3,6 +3,7 @@
 ## Machine Learning and AI in Radiology
 
 * **Tempus**
+  - Specifically in relation to radiology
 
 * Tempus was founded in August of 2015 by Eric Lefkofsky (founder of Groupon), after his wife was diagnosed with Breast Cancer. <sup>7</sup>
 
