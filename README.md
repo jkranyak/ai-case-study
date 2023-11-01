@@ -57,14 +57,14 @@ Among the radiology field there are over 250 companis competing in the space, Te
 
 * **Core Metrics**
       Core metrics for private companies that arent traded would include;
-        Adaptation in the field
+1.        Adaptation in the field
           - Tempus currently works with around 5,000 oncologists, as well as prestigious organizations such as the Mayo
             Clinic, Cleveland Clinic, and Duke University School of Medicine. The company they have acquired, Arterys               is currently is currently being used in multiple
-        Financial Solvency
+1.        Financial Solvency
           - Acording to the founder Eric Lefkofsky, when asked about an IPO he responded "We're fortunate that we've
             raised enough capital that, unlike many of our peers, Tempus has never needed to raise additional capital
             in order to be self-sufficient. We're essentially self-sustaining now."<sup>9</sup>
-        Regualtory Approval
+1.       Regualtory Approval
           - When Tempus acquired Arterys they also gained access to 10 FDA approved algorithms for medical imaging in
             in the areas of neurology, oncology and cardiology, among others. 
       
